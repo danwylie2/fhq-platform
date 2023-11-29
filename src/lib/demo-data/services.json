@@ -1,0 +1,82 @@
+[
+	{
+		"service_id": 1,
+		"code": "GGHHII",
+		"name": "Doors, Frames & Hardware",
+		"description": "ligula suspendisse ornare consequat lectus in est risus auctor sed tristique in tempus sit",
+		"hourly_rate": 498.41,
+		"category": "Standard"
+	},
+	{
+		"service_id": 2,
+		"code": "DDEEFF",
+		"name": "Drywall & Acoustical (FED)",
+		"description": "nulla sed accumsan felis ut at dolor quis odio consequat varius integer ac leo pellentesque ultrices mattis",
+		"hourly_rate": 578.56,
+		"category": "Standard"
+	},
+	{
+		"service_id": 3,
+		"code": "DDEEFF",
+		"name": "Site Furnishings",
+		"description": "morbi odio odio elementum eu interdum eu tincidunt in leo maecenas pulvinar lobortis est phasellus sit",
+		"hourly_rate": 424.31,
+		"category": "Basic"
+	},
+	{
+		"service_id": 4,
+		"code": "DDEEFF",
+		"name": "Electrical and Fire Alarm",
+		"description": "lobortis est phasellus sit amet erat nulla tempus vivamus in felis eu sapien cursus vestibulum proin eu",
+		"hourly_rate": 599.37,
+		"category": "Standard"
+	},
+	{
+		"service_id": 5,
+		"code": "JJKKLL",
+		"name": "Electrical",
+		"description": "libero nullam sit amet turpis elementum ligula vehicula consequat morbi a ipsum integer a nibh in quis",
+		"hourly_rate": 518.46,
+		"category": "Premium"
+	},
+	{
+		"service_id": 6,
+		"code": "AABBCC",
+		"name": "Framing (Wood)",
+		"description": "commodo placerat praesent blandit nam nulla integer pede justo lacinia eget tincidunt",
+		"hourly_rate": 377.4,
+		"category": "Premium"
+	},
+	{
+		"service_id": 7,
+		"code": "JJKKLL",
+		"name": "Temp Fencing, Decorative Fencing and Gates",
+		"description": "felis sed lacus morbi sem mauris laoreet ut rhoncus aliquet pulvinar sed nisl nunc rhoncus dui",
+		"hourly_rate": 386.49,
+		"category": "Standard"
+	},
+	{
+		"service_id": 8,
+		"code": "AABBCC",
+		"name": "Structural and Misc Steel (Fabrication)",
+		"description": "nisi volutpat eleifend donec ut dolor morbi vel lectus in quam fringilla rhoncus",
+		"hourly_rate": 496.14,
+		"category": "Premium"
+	},
+	{
+		"service_id": 9,
+		"code": "JJKKLL",
+		"name": "Electrical and Fire Alarm",
+		"description": "lobortis sapien sapien non mi integer ac neque duis bibendum morbi non quam nec dui luctus rutrum",
+		"hourly_rate": 472.13,
+		"category": "Premium"
+	},
+	{
+		"service_id": 10,
+		"code": "AABBCC",
+		"name": "Termite Control",
+		"description": "habitasse platea dictumst morbi vestibulum velit id pretium iaculis diam erat fermentum justo nec",
+		"hourly_rate": 433.98,
+		"category": "Standard"
+	}
+]

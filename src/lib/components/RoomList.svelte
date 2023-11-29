@@ -1,4 +1,4 @@
-<script>
+<script lang="ts">
 	export let roomsList = [];
 	export let removeRoom;
 
