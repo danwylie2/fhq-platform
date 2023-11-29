@@ -1,0 +1,122 @@
+[
+	{
+		"site_id": 1,
+		"created_timestamp": "2022-12-15 03:33:46",
+		"name": "Yacero",
+		"address_line1": "75 Oakridge Circle",
+		"address_line2": "Apt 836",
+		"city": "Atlanta",
+		"state": "Georgia",
+		"postcode": "",
+		"country": "United States",
+		"map_link": 33.8444
+	},
+	{
+		"site_id": 2,
+		"created_timestamp": "2023-03-18 23:58:54",
+		"name": "Topicblab",
+		"address_line1": "34 Mockingbird Plaza",
+		"address_line2": "Room 1988",
+		"city": "Lexington",
+		"state": "Kentucky",
+		"postcode": "",
+		"country": "United States",
+		"map_link": 38.0283
+	},
+	{
+		"site_id": 3,
+		"created_timestamp": "2023-02-19 04:27:28",
+		"name": "Kanoodle",
+		"address_line1": "89 1st Circle",
+		"address_line2": "Apt 171",
+		"city": "El Paso",
+		"state": "Texas",
+		"postcode": "",
+		"country": "United States",
+		"map_link": 31.6948
+	},
+	{
+		"site_id": 4,
+		"created_timestamp": "2023-02-27 19:11:55",
+		"name": "Skimia",
+		"address_line1": "358 Sutherland Plaza",
+		"address_line2": "11th Floor",
+		"city": "Fargo",
+		"state": "North Dakota",
+		"postcode": "",
+		"country": "United States",
+		"map_link": 46.9346
+	},
+	{
+		"site_id": 5,
+		"created_timestamp": "2023-02-11 06:30:53",
+		"name": "Quinu",
+		"address_line1": "69 Morningstar Lane",
+		"address_line2": "6th Floor",
+		"city": "Huntsville",
+		"state": "Alabama",
+		"postcode": "",
+		"country": "United States",
+		"map_link": 34.734
+	},
+	{
+		"site_id": 6,
+		"created_timestamp": "2023-03-31 05:02:36",
+		"name": "Ntags",
+		"address_line1": "0 Elmside Place",
+		"address_line2": "Apt 1088",
+		"city": "Atlanta",
+		"state": "Georgia",
+		"postcode": "",
+		"country": "United States",
+		"map_link": 33.9335
+	},
+	{
+		"site_id": 7,
+		"created_timestamp": "2023-01-05 17:42:44",
+		"name": "Twitterwire",
+		"address_line1": "403 Artisan Junction",
+		"address_line2": "PO Box 91530",
+		"city": "Colorado Springs",
+		"state": "Colorado",
+		"postcode": "",
+		"country": "United States",
+		"map_link": 38.8881
+	},
+	{
+		"site_id": 8,
+		"created_timestamp": "2023-03-05 09:46:16",
+		"name": "Jazzy",
+		"address_line1": "1322 Brentwood Center",
+		"address_line2": "12th Floor",
+		"city": "Zephyrhills",
+		"state": "Florida",
+		"postcode": "",
+		"country": "United States",
+		"map_link": 28.2059
+	},
+	{
+		"site_id": 9,
+		"created_timestamp": "2023-02-26 10:40:12",
+		"name": "Trunyx",
+		"address_line1": "04186 Ronald Regan Lane",
+		"address_line2": "6th Floor",
+		"city": "Scranton",
+		"state": "Pennsylvania",
+		"postcode": "",
+		"country": "United States",
+		"map_link": 41.4019
+	},
+	{
+		"site_id": 10,
+		"created_timestamp": "2023-07-05 06:18:22",
+		"name": "Eabox",
+		"address_line1": "82733 Farwell Hill",
+		"address_line2": "Room 1574",
+		"city": "Charlotte",
+		"state": "North Carolina",
+		"postcode": "",
+		"country": "United States",
+		"map_link": 35.26
+	}
+]

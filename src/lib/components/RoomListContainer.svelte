@@ -25,7 +25,7 @@
 		console.log(rooms);
 	}
 
-	const removeRoom = (index) => {
+	const removeRoom = (index: number) => {
 		rooms = rooms.filter((_, i) => i !== index);
 	};
 </script>
