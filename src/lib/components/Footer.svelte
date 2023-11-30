@@ -5,10 +5,10 @@
 
 <Section>
 	<Footer
-		class="p-4 bg-white rounded-lg shadow md:flex md:items-center md:justify-between md:p-6 dark:bg-gray-800"
+		class="p-4 bg-white rounded-lg  md:flex md:items-center md:justify-between md:p-6 dark:bg-gray-800"
 	>
 		<FooterCopyright href="/" by="Hydronic Quoting." year={2024} />
-		<FooterLinkGroup
+		<!-- <FooterLinkGroup
 			ulClass="flex flex-wrap items-center mt-3 mr-4 text-sm text-gray-500 dark:text-gray-400 sm:mt-0"
 		>
 			<FooterLink href="/">
@@ -52,6 +52,6 @@
 				<span class="sr-only">Dribbble</span>
 			</FooterLink>
 			<Tooltip placement="bottom">Follow us on Dribbble</Tooltip>
-		</FooterLinkGroup>
+		</FooterLinkGroup> -->
 	</Footer>
 </Section>
