@@ -6,6 +6,7 @@
 	import { superForm } from 'sveltekit-superforms/client';
 	import SuperDebug from 'sveltekit-superforms/client/SuperDebug.svelte';
 	import { Section } from 'flowbite-svelte-blocks';
+	import { onMount } from 'svelte';
 	export let data;
 
 	const { form, errors, constraints } = superForm(data.form);
@@ -31,9 +32,22 @@
 			siteDisabled = true;
 		}
 	}
+
+	async function getCustomers () {
+		const response = await fetch('/customers');
+		const data = await response.json();
+		return data;
+	}
+	onMount(async () => {
+		const customers = await getCustomers();
+		console.log(customers);
+	});
+	
 </script>
 
-<SuperDebug data={$form} />
+<!-- <SuperDebug data={$form} /> -->
+
+
 <div class="md:flex md:items-center md:justify-around md:p-6">
 	<Card size="xl">
 		<div class="flex flex-col space-y-6">

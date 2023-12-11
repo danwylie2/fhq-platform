@@ -57,5 +57,8 @@
 	},
 	"svelte": "./dist/index.js",
 	"types": "./dist/index.d.ts",
-	"type": "module"
+	"type": "module",
+	"dependencies": {
+		"@supabase/supabase-js": "^2.39.0"
+	}
 }
